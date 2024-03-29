@@ -9,6 +9,6 @@ Welcome to my humble github page, if you look at the repositories you will find 
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redhat,git,github,docker,c,angular,aws,cpp,html,css,tailwind,firebase,java,js,ts,threejs,kotlin,python,opencv,r" />
+    <img src="https://skillicons.dev/icons?i=redhat,git,github,docker,c,angular,aws,cpp,html,css,tailwind,firebase,java,js,ts,threejs,kotlin,python,opencv,r,vscode,webstorm,eclipse" />
   </a>
 </p>
